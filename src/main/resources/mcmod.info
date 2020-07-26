@@ -1,14 +1,14 @@
 [
 {
-  "modid": "serverredirect",
-  "name": "ServerRedirect",
-  "description": "This mod allows servers to redirect clients to other servers. Very useful for big networks!",
+  "modid": "bteserverredirect",
+  "name": "BTEServerRedirect",
+  "description": "Appropriate server for appopriate country",
   "version": "${version}",
   "mcversion": "${mcversion}",
-  "url": "http://mc.kaikk.net",
+  "url": "http://mc.hugofnm.fr",
   "updateUrl": "",
-  "authorList": ["KaiNoMood"],
-  "credits": "",
+  "authorList": ["hugofnm"],
+  "credits": "KaiNoMood for his server redirection mod",
   "logoFile": "",
   "screenshots": [],
   "dependencies": []
